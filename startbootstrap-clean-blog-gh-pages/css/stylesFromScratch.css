@@ -1,0 +1,42 @@
+.subhead {
+    font-weight: 550;
+    font-style: italic;
+    font-size: 20px;
+    
+}
+
+.font {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.right {
+    margin-left: 100px;
+    
+}
+
+.home-button {
+    color: rgb(73, 63, 125);
+    margin-right: 20px;
+}
+
+.linking {
+    text-align: right;
+    padding: 10px;
+}
+
+.centered {
+    text-align: center;
+}
+
+.T1 {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+.T2 {text-align: center;
+    font-weight: 20px;
+    margin-left: 75px;
+    margin-right: 75px;
+    font-size: 20px;
+}
